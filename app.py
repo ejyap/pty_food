@@ -60,7 +60,7 @@ server.secret_key = os.environ.get('secret_key', 'secret')
 app = dash.Dash(name=__name__, server=server)
 app.title = 'PTY Food'
 app.css.config.serve_locally = False
-
+server = app.server
 app.layout = html.Div(
     [
         header,
