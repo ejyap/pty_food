@@ -51,6 +51,7 @@ explanation = html.Div([
 
 header = html.Div([html.H2('PTY Food'),
                    html.P('Eduardo Yap - 2019'),
+                    html.A('View on Github', href='https://github.com/ejyap/pty_food'),
                   html.Hr()])
 
 graph = html.Div(dcc.Graph(id='graph'), id='content')
