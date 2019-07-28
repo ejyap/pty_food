@@ -1,0 +1,750 @@
+,Name,Neighborhood,Price,Votes,agg_rating
+11,Palettamerica (San Francisco) ,San Francisco,5,154,13.5
+187,Rass (Casco Antiguo) ,Casco Antiguo,5,138,10.6
+149,La Michoacana (El Dorado) ,El Dorado/Bethania,5,143,11.9
+77,Cocowao ,Condado del Rey,6,124,13.2
+19,Gut ,San Francisco,6,240,13.3
+161,La Michoacana (San Francisco) ,San Francisco,6,160,11.8
+78,Gelarti (Condado del Rey) ,Condado del Rey,6,116,11.7
+52,Gelarti (Costa del Este) ,Costa del Este,6,148,12.8
+50,Gelarti (Multiplaza) ,Paitilla/Punta Pacifica,6,167,11.8
+10,Granclement ,Casco Antiguo,6,251,12.2
+9,Helados Keene's (San Francisco) ,San Francisco,6,265,13.3
+141,Paleta House (Punta Pacifica) ,Paitilla/Punta Pacifica,6,172,12.5
+82,La Michoacana (Casco Antiguo) ,Casco Antiguo,6,283,11.9
+29,Fragola ,San Francisco,6,215,12.5
+126,Ilgelato ,San Francisco,6,308,13.1
+131,Palettamerica (Casco Antiguo) ,Casco Antiguo,6,231,12.5
+134,La Michoacana (Albrook Mall) ,Albrook/Clayton,6,90,12.6
+30,The Cookie Jaar (Midtown Plaza) ,San Francisco,7,214,13.3
+129,Yogen Fruz (Calle 50) ,San Francisco,7,114,12.6
+128,Pinkberry (Balboa Boutiques) ,Marbella/Area Bancaria,7,145,12.5
+23,Nelados (Costa del Este) ,Costa del Este,7,190,13.6
+31,Royale Cookie Bar ,Casco Antiguo,7,186,13.1
+41,Cinnabon (Multiplaza Mall) ,Paitilla/Punta Pacifica,8,82,11.9
+53,Kotowa (Centennial Mall) ,Condado del Rey,8,138,13
+38,Churromania (Altaplaza Mall) ,Condado del Rey,8,104,12.3
+127,Palettamerica (Obarrio) ,Obarrio,8,204,13
+22,Krispy Kreme (Multiplaza) ,Paitilla/Punta Pacifica,8,202,12.3
+3,Gelato & Co ,Obarrio,8,640,14.1
+57,Dairy Queen (Multiplaza) ,Paitilla/Punta Pacifica,8,117,11.7
+12,Moocha ,Condado del Rey,8,127,13.7
+173,Subway (Costa del Este) ,Costa del Este,8,84,10.8
+155,La Luncheria ,Marbella/Area Bancaria,8,96,12.5
+87,Cali Aji ,El Carmen/El Cangrejo,9,108,10.7
+171,Little Ceasar (Condado del Rey) ,Condado del Rey,9,129,10.8
+98,Juan Valdez Cafe (Multiplaza) ,Paitilla/Punta Pacifica,9,101,11.6
+33,Loving Hut ,Marbella/Area Bancaria,9,174,12.2
+84,Kotowa (Albrook) ,Albrook/Clayton,9,145,12.4
+109,Popeyes (Transistmica) ,El Dorado/Bethania,9,89,10.8
+143,Cinnabon ,Albrook/Clayton,9,89,11.5
+112,Duran Coffee Store  (Multiplaza) ,San Francisco,9,121,11.2
+115,Delirys (Transismica) ,El Dorado/Bethania,9,84,10.6
+58,Kotowa (Condado del Rey) ,Condado del Rey,9,96,13.1
+111,Niko's Café  (Super Centro El Dorado) ,El Dorado/Bethania,10,136,10.8
+116,Popeyes (Paitilla) ,Paitilla/Punta Pacifica,10,78,9.9
+119,Niko's Café (Vía Israel) ,San Francisco,10,188,10.4
+110,Niko's Café (El Dorado) ,El Dorado/Bethania,10,531,11
+95,New York Fries ,Condado del Rey,10,261,11.4
+64,Little Caesars (San Francisco) ,San Francisco,10,361,11.3
+40,Starbucks (Albrook Mall) ,Albrook/Clayton,10,95,13.4
+133,The Coffee Pot  ,Costa del Este,10,91,12.6
+2,Venecia ,San Francisco,10,718,13.8
+7,Krispy Kreme (Costa del Este) ,Costa del Este,10,622,13.1
+15,Ay Mi Negra ,Casco Antiguo,10,980,12.9
+20,Artisana 1984 ,El Carmen/El Cangrejo,10,226,12.9
+167,Don Tiritón ,Costa del Este,10,251,11
+85,Nandy's Grill (Betania) ,El Dorado/Bethania,10,121,10.6
+34,La Empanaderia ,Obarrio,10,171,13.4
+150,Noel ,El Carmen/El Cangrejo,10,135,12
+153,Ferretti Gelato e Caffe (Multiplaza) ,Paitilla/Punta Pacifica,10,97,12.3
+154,Deli Market Golden Koi ,El Dorado/Bethania,11,97,11
+106,Shawarmix ,Paitilla/Punta Pacifica,11,110,11.1
+132,El Pollito al Grill ,Condado del Rey,11,113,11.8
+152,Chicken Sabroso (Clayton) ,Albrook/Clayton,11,101,12.1
+97,Q Pepitos (San Francisco) ,San Francisco,11,120,11.1
+175,The Coffee Bean & Tea Leaf (San Francisco) ,San Francisco,11,78,12.5
+114,Q Pepitos (Condado del Rey) ,Condado del Rey,11,98,10.4
+140,Rosselot (Multiplaza) ,Paitilla/Punta Pacifica,11,224,11.9
+99,Wing Zone (Altaplaza Mall) ,Condado del Rey,11,100,11.3
+0,Rosselot (Multiplaza) ,Paitilla/Punta Pacifica,11,224,11.9
+36,Starbucks (Plaza Penta) ,Marbella/Area Bancaria,11,112,13.7
+56,Rocky Mountain Chocolate Factory ,Paitilla/Punta Pacifica,11,122,13.1
+21,La Suiza ,Marbella/Area Bancaria,11,203,13.4
+65,Starbucks (Multiplaza) ,Paitilla/Punta Pacifica,11,326,12.5
+51,Starbucks (Atrio Mall) ,Costa del Este,11,165,13.4
+49,Gelatiamo (Altaplaza Mall) ,Condado del Rey,11,174,12.6
+48,Ibakery 888 ,El Dorado/Bethania,11,181,12.8
+16,Los Venezolanos ,El Carmen/El Cangrejo,11,562,11.6
+74,Arepas Vía España ,San Francisco,11,134,12
+46,Starbucks (Via Brasil) ,Paitilla/Punta Pacifica,11,328,13.5
+32,Fonda la Especial ,El Dorado/Bethania,11,184,11.6
+39,4 Minds ,El Dorado/Bethania,11,98,13.3
+47,Starbucks (Altaplaza Mall) ,Condado del Rey,11,296,13.2
+59,Casual Kitchen ,Costa del Este,11,88,13.2
+156,Super Gourmet ,Casco Antiguo,12,94,13
+28,Athanasiou (Albrook) ,Albrook/Clayton,12,282,13.1
+27,Karamel Pastry Shop ,Obarrio,12,581,13.6
+151,Gelatiamo (Soho Mall) ,Obarrio,12,105,11.9
+92,The Coffee Bean & Tea Leaf (Balboa Boutiques) ,Marbella/Area Bancaria,12,306,12.6
+35,Onze (El Dorado) ,El Dorado/Bethania,12,121,11.9
+163,Pepito's Village ,San Francisco,12,104,11.6
+168,El Rincon Venezolano ,El Carmen/El Cangrejo,12,142,11.3
+169,Amazonia Republic ,Obarrio,12,141,13.3
+18,El Gran Rincon Venezolano ,Costa del Este,12,374,12.6
+172,Carl's Jr. (Condado del Rey) ,Condado del Rey,12,125,10.8
+174,Onze (Albrook) ,Albrook/Clayton,12,80,11
+8,Lalo's Frutitas y Más (Balboa Boutiques) ,Marbella/Area Bancaria,12,503,13.3
+182,Onze (San Francisco) ,San Francisco,12,229,10.2
+6,dipndip (Altaplaza Mall) ,Condado del Rey,12,860,13.3
+189,Sushi Express (Albrook Mall) ,Albrook/Clayton,12,89,9.8
+83,Athanasiou (Multiplaza) ,Paitilla/Punta Pacifica,12,172,12.2
+24,Paddle Coffee ,El Dorado/Bethania,12,188,13.5
+162,Don Gennaro ,Condado del Rey,12,109,11.4
+26,Anti.burger ,San Francisco,12,967,12.9
+45,Cachapas Don Luis (San Francisco) ,San Francisco,12,341,11.7
+94,Don Lee (El Dorado) ,El Dorado/Bethania,12,271,11.1
+37,Rock Burger (Marbella) ,Marbella/Area Bancaria,12,108,12.5
+79,Onze (Costa del Este) ,Costa del Este,12,108,12
+96,Wing Zone (Costa del Este) ,Costa del Este,12,123,11.4
+76,Carl's Jr. (Cincuentenario) ,San Francisco,12,125,12
+73,Restaurante Bingo 90 ,Bella Vista,12,136,11.7
+100,Suvlas (Albrook Mall) ,Albrook/Clayton,12,96,11.5
+107,Momi (El Dorado) ,El Dorado/Bethania,12,97,11.2
+70,Onze (Area Bancaria) ,Marbella/Area Bancaria,12,174,11.8
+68,Deli Gourmet (Albrook) ,Albrook/Clayton,12,187,12.3
+72,Deli Gourmet (El Dorado) ,El Dorado/Bethania,12,171,12
+113,Don Lee (Marbella) ,Marbella/Area Bancaria,12,118,11.3
+63,Suvlas (Costa del Este) ,Costa del Este,12,456,12.7
+62,Pan & Canela (Ciudad del Saber) ,Albrook/Clayton,12,567,12.6
+61,Panda House ,Condado del Rey,12,672,12
+120,Parrillada de la Estancia (Albrook) ,Albrook/Clayton,12,94,10
+66,Carl's Jr. (Multiplaza) ,Paitilla/Punta Pacifica,12,268,11.7
+54,Café Unido (Casco Viejo) ,Casco Antiguo,12,134,13.4
+135,Benissimo ,Casco Antiguo,12,85,13.5
+437,Deli Gourmet (San Francisco) ,San Francisco,13,612,12
+407,New York Bagel Cafe ,El Carmen/El Cangrejo,13,209,12.3
+242,La Rosti Trattoria Express ,Costa del Este,13,195,13.9
+507,La Parrilla de la Estancia (El Dorado) ,El Dorado/Bethania,13,102,11.1
+328,Chicken Box Roasted ,Costa del Este,13,552,12.7
+236,Boquete Bakery Café & Grill ,Albrook/Clayton,13,352,13.6
+335,Leto Coffee Brew Bar (San Francisco) ,San Francisco,13,486,13.4
+515,Mr Chen (Condado del Rey) ,Condado del Rey,13,286,11.1
+501,Kouzina (Multiplaza) ,Paitilla/Punta Pacifica,13,272,11.2
+303,Aktibao ,San Francisco,13,128,13.5
+536,Rock Burger (Altaplaza) ,Condado del Rey,13,106,10.6
+254,Fogata Familiar ,San Francisco,13,97,12.5
+255,Hong Kong Bakery ,El Dorado/Bethania,13,94,12.2
+412,Suvlas (El Cangrejo) ,El Carmen/El Cangrejo,13,182,12.3
+293,La Inmaculada (Costa del Este) ,Costa del Este,13,193,12.5
+524,Rock Burger (El Dorado) ,El Dorado/Bethania,13,91,11.3
+285,Buco Pollo (San Francisco) ,San Francisco,13,308,12.5
+531,Cuatro & Maracas (Bella Vista) ,Bella Vista,13,171,10.7
+445,Pollo Tropical (Albrook) ,Albrook/Clayton,13,288,11.1
+339,Athanasiou (Obarrio) ,Obarrio,13,435,13.2
+541,Sushi Express (Multiplaza Mall) ,San Francisco,13,151,10
+300,La Chiva Gourmet ,Obarrio,13,139,12.9
+343,Tosto Coffee Co (Condado del Rey) ,Condado del Rey,13,399,13.1
+383,Suvlas (Marbella) ,Marbella/Area Bancaria,13,956,12.5
+204,Saint-Honoré (Clayton) ,Albrook/Clayton,13,731,13.4
+362,Ferretti Gelato e Cafe (Costa del Este) ,Costa del Este,13,218,13.1
+399,Suvlas (Bella Vista) ,Bella Vista,13,294,12.4
+359,Deli Gourmet (Obarrio) ,Obarrio,13,232,12.1
+207,Poké ,San Francisco,13,291,12.3
+371,Buco Pollo (Marbella) ,Marbella/Area Bancaria,13,150,12.5
+609,The Buffalo House (San Francisco) ,San Francisco,13,187,9.4
+366,Deli Gourmet (Costa del Este) ,Costa del Este,13,175,12
+605,Macau Express (Centennial) ,Condado del Rey,13,77,10.9
+368,Leto Coffee Brew Bar (Costa del Este) ,Costa del Este,13,165,13.8
+356,Chicken Sabroso (Costa del Este) ,Costa del Este,13,262,12.8
+200,Green Tea House ,El Carmen/El Cangrejo,13,176,13.4
+603,Domino's Pizza (El Dorado) ,El Dorado/Bethania,13,114,10.5
+353,La Inmaculada (El Dorado) ,El Dorado/Bethania,13,277,12.2
+478,Pollo Tropical (Multiplaza) ,Paitilla/Punta Pacifica,13,216,11.2
+199,Katané Speedy Pizza (Bella Vista) ,Bella Vista,13,558,12.8
+228,dipndip (Multiplaza) ,Paitilla/Punta Pacifica,13,979,12.8
+467,Wing Zone (San Francisco) ,San Francisco,13,396,11.6
+378,Farfalle ,Costa del Este,14,95,12.5
+370,Ferretti (Street Mall) ,San Francisco,14,160,12.7
+421,Boulevard Cafe Albrook ,Albrook/Clayton,14,117,12.5
+295,Cafe Met ,Albrook/Clayton,14,182,12.8
+456,Ihop Fresh And Go (El Dorado) ,El Dorado/Bethania,14,151,11.8
+302,Deli Gourmet (Business Park) ,Costa del Este,14,130,12.6
+299,Athens Pizza (San Francisco) ,San Francisco,14,156,12.5
+301,Siete Granos ,San Francisco,14,136,13.5
+305,Brivaro ,El Carmen/El Cangrejo,14,111,12.9
+358,Athanasiou (Decapolis) ,Paitilla/Punta Pacifica,14,234,13.1
+357,Tosto Coffee Co (San Francisco) ,San Francisco,14,238,13.6
+508,Pizza Hut (Calle 50) ,Marbella/Area Bancaria,14,85,11.7
+323,Athanasiou (Costa del Este) ,Costa del Este,14,823,13.2
+488,Juice Market (Altaplaza Mall) ,Condado del Rey,14,112,11.1
+484,Pig Backside ,San Francisco,14,134,12.2
+409,Ihop Fresh & Go (Altaplaza)  ,Condado del Rey,14,191,12.1
+423,Soulfish Poke (Costa del Este) ,Costa del Este,14,106,11.9
+386,La Inmaculada (Marbella) ,Marbella/Area Bancaria,14,572,11.8
+243,Los Tacos de Villa ,Bella Vista,14,187,12.6
+579,Casa Sucre Coffe House ,Casco Antiguo,14,76,13.1
+611,Wing Zone (El Dorado) ,El Dorado/Bethania,14,109,9.7
+610,Rock Burger (Calle 50) ,San Francisco,14,121,10
+250,Banh Mi ,Marbella/Area Bancaria,14,111,13.4
+613,Pizza Hut (Tumba Muerto) ,El Dorado/Bethania,14,107,10.1
+240,Bistro Mkt ,Costa del Este,14,243,12.6
+572,Green Bar (San Francisco) ,San Francisco,14,131,12
+239,Norexpress ,El Dorado/Bethania,14,260,11.9
+588,Pita-Pan Kosher ,Paitilla/Punta Pacifica,14,87,10.1
+270,Athen's Pizza (El Dorado) ,El Dorado/Bethania,15,737,11.8
+505,Sushi Express (Costa del Este) ,Costa del Este,15,156,11.6
+591,Armónica Café ,El Carmen/El Cangrejo,15,77,11.8
+341,Athens Pizza (Costa del Este) ,Costa del Este,15,420,12.3
+589,Brasas & Gourmet ,El Carmen/El Cangrejo,15,124,11.5
+400,Fitness Food (Albrook) ,Albrook/Clayton,15,284,11.6
+349,Pho Vietnam ,Costa del Este,15,322,12.1
+454,Sushi Express (El Dorado) ,El Dorado/Bethania,15,189,12.2
+330,Mamma Rosa ,Condado del Rey,15,522,11.7
+319,Athanasiou (San Francisco) ,San Francisco,15,1071,12.8
+403,Tomato (San Francisco) ,San Francisco,15,226,12.3
+500,Sushi Express (Condado del Rey) ,Condado del Rey,15,282,11.8
+221,Esa Flaca Rica (San Francisco) ,San Francisco,15,1893,13.1
+585,Bora ,El Carmen/El Cangrejo,15,107,11.9
+324,Oink House (Condado del Rey) ,Condado del Rey,15,801,12.4
+498,Fuddruckers (Altaplaza) ,Condado del Rey,15,443,12.1
+326,El Trapiche (Albrook Mall) ,Albrook/Clayton,15,648,12.3
+327,La Reina Sazón Latina (Albrook) ,Albrook/Clayton,15,586,12.5
+320,El Trapiche (El Cangrejo) ,El Carmen/El Cangrejo,15,1030,12.6
+229,Mentiritas Blancas ,El Carmen/El Cangrejo,15,780,13.3
+431,Kouzina (Costa del Este) ,Costa del Este,15,698,11.9
+513,Beauty And The Butcher ,Casco Antiguo,15,418,12.4
+205,Talulú ,San Francisco,15,564,13.5
+554,Pizza al Forno (Condado del Rey) ,Condado del Rey,15,102,11.9
+284,La Reina Sazón Latina (Costa del Este) ,Costa del Este,15,314,13.3
+444,Rice & Noodles ,Albrook/Clayton,15,301,12.2
+379,Cafe Unido (Marbella II) ,Marbella/Area Bancaria,15,86,12.9
+373,La Vaquita (Via España) ,San Francisco,15,137,12.5
+415,China Hour ,Obarrio,15,175,12.1
+428,Smashburger ,Marbella/Area Bancaria,15,918,12.2
+280,Brun ,Marbella/Area Bancaria,15,363,12.5
+201,Hambre ,Obarrio,15,85,14.2
+436,Fatburger ,Costa del Este,15,622,12.2
+618,Don Blas (Bella Vista) ,Bella Vista,15,256,10.2
+420,Beat Burger Punto ,Marbella/Area Bancaria,15,118,12.6
+576,La Nostra Pizza (Multicentro) ,Marbella/Area Bancaria,15,86,11.3
+249,Sabor Viet (Bella Vista) ,Bella Vista,15,113,12.8
+306,Fitness Food (Multiplaza) ,Paitilla/Punta Pacifica,15,106,12.3
+364,Saint-honoré (Punta Pacífica) ,Paitilla/Punta Pacifica,15,176,13.1
+562,T.Bar (Ciudad del Saber) ,Albrook/Clayton,15,79,12.3
+348,Casco Burger (Casco Antiguo) ,Casco Antiguo,16,334,12.9
+387,Tomato (Punta Pacifica) ,Paitilla/Punta Pacifica,16,560,12.1
+457,Papa Jhon's (Obarrio) ,Obarrio,16,126,11.8
+473,Pixvae Mercadito Panameño ,San Francisco,16,267,12.3
+396,Cafe Unido (Costa del Este 2) ,Costa del Este,16,324,12.7
+388,Cafe Unido (Multiplaza) ,Paitilla/Punta Pacifica,16,478,12.4
+393,Wingstop (San Francisco) ,San Francisco,16,382,12.8
+360,Café Unido (Marbella) ,Marbella/Area Bancaria,16,223,12.9
+375,Chick N Pop ,Obarrio,16,111,13.2
+471,Sushi House (Albrook) ,Albrook/Clayton,16,320,11
+369,Sabor Sazon Panama ,San Francisco,16,163,13.1
+212,Karma Café (San Francisco) ,San Francisco,16,164,13.1
+227,Athen's Pizza (Obarrio) ,Obarrio,16,1503,12.2
+547,Lattemiele ,Obarrio,16,76,13
+329,Café Unido (Coco del Mar) ,San Francisco,16,545,12.9
+338,Barrio Pizza (San Francisco) ,San Francisco,16,436,12.7
+553,821 Taqueria & Spot ,San Francisco,16,103,12.9
+265,Barrio Pizza (Casco Antiguo) ,Casco Antiguo,16,968,13
+535,Cerditos (San Francisco) ,San Francisco,16,191,10.7
+533,Sushi Express (Punta Pacifica) ,Paitilla/Punta Pacifica,16,602,10.7
+417,La Crema y Nata ,Costa del Este,16,132,12.7
+292,Giorgio's (Albrook Mall) ,Albrook/Clayton,16,204,12.7
+573,Papa John's (Albrook) ,Albrook/Clayton,16,115,11.3
+410,Barrio Pizza (Marbella) ,Marbella/Area Bancaria,16,190,12.8
+251,Coffee Max ,El Carmen/El Cangrejo,16,107,13.1
+248,Moccas's Amsterdam ,Costa del Este,16,118,14
+481,Taglios Gastrobar ,Marbella/Area Bancaria,16,165,12
+582,Nostra Pizza ,El Dorado/Bethania,16,376,11.4
+223,Esa Flaca Rica (Costa del Este) ,Costa del Este,16,1678,12.7
+235,Kaifish (Balboa Boutiques) ,Marbella/Area Bancaria,16,376,13.3
+315,Panos Kretan House (Bella Vista) ,Bella Vista,16,1237,11.7
+451,Sushi Express (Area Bancaria) ,Marbella/Area Bancaria,16,199,12
+404,Jeffrey's ,Paitilla/Punta Pacifica,16,214,12.5
+430,Sorrento ,San Francisco,16,736,12.1
+494,Churreria Manolo (Via Argentina) ,El Carmen/El Cangrejo,16,596,11.3
+586,Bliss Grill Panama ,El Carmen/El Cangrejo,16,104,12.1
+331,Sangucheria Lima 507 ,San Francisco,16,514,12.6
+584,Piloto ,San Francisco,16,130,11.1
+333,Paraiso Cafe ,San Francisco,16,506,13.5
+449,La Milonga ,Marbella/Area Bancaria,17,229,12.1
+442,Maisa (Casco Antiguo) ,Casco Antiguo,17,319,11.8
+465,Del Prado ,El Carmen/El Cangrejo,17,491,11.1
+433,Pizzeria Italia (Tumba Muerto) ,El Dorado/Bethania,17,628,11.8
+429,Costa Azul ,Marbella/Area Bancaria,17,856,11.8
+391,Sushi House (Costa del Este) ,Costa del Este,17,410,11.8
+418,Café Ejecutivo (Hotel Ejecutivo) ,Bella Vista,17,128,12.1
+432,Boulevard Balboa ,Bella Vista,17,654,12.1
+583,Papa John's (Centennial) ,Condado del Rey,17,132,11
+376,Kaifish (Costa del Este) ,Costa del Este,17,111,12.9
+206,Caffe Per Due ,Casco Antiguo,17,293,13.7
+604,Los Carbones Steak House ,El Dorado/Bethania,17,105,11.2
+599,Papa John's (Costa del Este) ,Costa del Este,17,430,9.7
+587,La Mexicanita (Bella Vista) ,Bella Vista,17,95,10.6
+256,We Fresh Market (San Francisco) ,San Francisco,17,93,13.3
+555,Cafe Collins ,Obarrio,17,94,12.4
+263,Ihop (Costa del Este) ,Costa del Este,17,1674,12.9
+267,Barrio Pizza (Costa del Este) ,Costa del Este,17,900,13.1
+271,El Trapiche (San Francisco) ,San Francisco,17,733,13.3
+545,Pizzeria Casco 507 ,Casco Antiguo,17,133,13.1
+275,Viarepa ,San Francisco,17,496,12.8
+532,A Dos Veinte Panamá ,El Carmen/El Cangrejo,17,109,11.7
+530,Los Toneles (Centennial) ,Condado del Rey,17,235,10.6
+384,Oh - Toro (Condado del Rey) ,Condado del Rey,17,717,12.2
+297,Ajisen Ramen ,Obarrio,17,173,13.4
+525,Tambal ,San Francisco,17,77,12
+510,Pizza & Wings Sport Bar ,Obarrio,17,83,12.5
+363,Café Neto (Hospital Punta Pacífica) ,Paitilla/Punta Pacifica,17,179,12.8
+354,Los Tarascos (Altos de Panamá) ,Condado del Rey,17,273,12
+475,Bushido Sushi and Japanese Food ,Bella Vista,17,239,11.3
+516,Cerditos (Condado del Rey) ,Condado del Rey,17,208,11.1
+346,Executive Cafe ,Bella Vista,17,358,12.6
+337,100 Montaditos ,Paitilla/Punta Pacifica,17,453,12.8
+350,Sen Vietnam ,El Carmen/El Cangrejo,17,317,12
+322,Restaurante Vietnamita ,San Francisco,17,924,11.9
+318,Los Tarascos (El Carmen) ,El Carmen/El Cangrejo,17,1126,12.3
+479,Red Chicken (Costa del Este) ,Costa del Este,18,199,11.9
+528,Peskito (Centenial) ,Condado del Rey,18,391,11.4
+443,Oh - Toro (Albrook Mall) ,Albrook/Clayton,18,313,12.4
+502,Taberna la Malagueña (Calle Uruguay) ,Bella Vista,18,258,12.1
+458,La Vaca Lola ,Condado del Rey,18,125,12.3
+450,Katsudon ,Condado del Rey,18,222,11.9
+518,Chuck E Cheese (Multiplaza) ,Paitilla/Punta Pacifica,18,180,12
+602,Parrillada el Carbón Rojo ,El Dorado/Bethania,18,114,10.5
+463,Sushi House (Marbella) ,Marbella/Area Bancaria,18,740,11.2
+612,Palo E Mango Garden Spot ,Albrook/Clayton,18,107,11.8
+441,Churreria Manolo (Albrook Mall) ,Albrook/Clayton,18,349,12.4
+469,Leños & Carbón (Albrook Mall) ,Albrook/Clayton,18,361,11.1
+497,Churrería Manolo (Costa del Este) ,Costa del Este,18,523,11.9
+440,Las Hadas (Costa del Este) ,Costa del Este,18,427,12.1
+514,Portolá Restaurante & Lounge ,San Francisco,18,396,11.5
+435,Churreria Manolo  (Obarrio) ,Obarrio,18,622,12.2
+226,La Tapa del Coco ,San Francisco,18,1506,13
+345,Oh - Toro (Costa del Este) ,Costa del Este,18,378,12.7
+340,Crepes & Waffles (Town Center) ,Costa del Este,18,425,12.9
+334,Taberna la Malagueña ,El Carmen/El Cangrejo,18,505,13.3
+231,Sabor de La India ,Bella Vista,18,641,11.8
+332,Taco T   Taquerias (San Francisco) ,San Francisco,18,513,12.6
+325,Oh - Toro (San Francisco) ,San Francisco,18,663,12.7
+268,Crepes & Waffles (Altaplaza Mall) ,Condado del Rey,18,822,13
+234,Jumbo ,El Dorado/Bethania,18,396,11.8
+312,Dainer 16 ,San Francisco,18,1532,12.6
+245,La Rotisería ,Albrook/Clayton,18,178,13.3
+246,We Fresh Market (Costa del Este) ,Costa del Este,18,150,13
+294,Hippies ,Casco Antiguo,18,192,13.1
+279,Taco T Taquerias  (Costa del Este) ,Costa del Este,18,410,12.7
+272,Crepes & Waffles (Multiplaza) ,Paitilla/Punta Pacifica,18,710,12.7
+372,Oh - Toro (El Dorado) ,El Dorado/Bethania,18,139,12.9
+215,Zi Maria (Albrook) ,Albrook/Clayton,18,79,13.7
+264,Wings Famous Grill ,Paitilla/Punta Pacifica,18,1083,12.9
+210,Taj Mahal ,Obarrio,18,224,12.3
+434,El Mesón del Prado ,El Dorado/Bethania,18,624,12
+405,Ramen 81 ,San Francisco,18,213,12.8
+394,Los Tarascos (Bella Vista) ,Bella Vista,18,371,12
+310,Bad Gallo ,Costa del Este,19,2094,13.4
+425,Las Hadas (San Francisco) ,San Francisco,19,1402,11.8
+253,Prohealth Shop Cafe ,San Francisco,19,98,13.2
+426,Tacontento (Multiplaza) ,Paitilla/Punta Pacifica,19,1327,12.4
+519,Istmo Brew Pub (El Cangrejo) ,El Carmen/El Cangrejo,19,178,11.9
+523,Panama Brews ,Marbella/Area Bancaria,19,122,12.6
+289,Pizza Is Love ,San Francisco,19,277,13.8
+287,Perú Chicken ,Obarrio,19,289,12.6
+529,La Cevicheria Panama ,Marbella/Area Bancaria,19,299,10.3
+220,Hamburguesía ,San Francisco,19,3055,13.4
+244,Nacionsushi (El Cangrejo) ,El Carmen/El Cangrejo,19,180,13.4
+283,Yakitori ,San Francisco,19,331,13
+438,Charro Mexicano (Calle 50) ,San Francisco,19,542,11.5
+260,Slabón Café Bistró (Costa del Este) ,Costa del Este,19,2223,12.6
+261,Slabón Café Bistró (Obarrio) ,Obarrio,19,2094,12.8
+539,Chinita ,Costa del Este,19,153,11.8
+273,4 Bistro ,San Francisco,19,692,13.4
+542,Laichin ,El Dorado/Bethania,19,78,11.4
+269,Slabón Café Bistró (Multiplaza) ,Paitilla/Punta Pacifica,19,810,13
+560,Rincón Habanero ,El Carmen/El Cangrejo,19,202,11.9
+286,Taisei Ramen ,San Francisco,19,300,13.4
+447,La Rana Dorada (Costa del Este) ,Costa del Este,19,263,12.7
+499,Par de Pintas ,San Francisco,19,347,11.8
+506,Leños y Carbon (Multicentro) ,Paitilla/Punta Pacifica,19,119,10.6
+222,Ciao Bella Pizza (San Francisco) ,San Francisco,19,1810,13.2
+468,Fulo's Gastrobar ,San Francisco,19,394,12.5
+374,Slabón Café Bristó (Centennial) ,Condado del Rey,19,115,12.6
+224,Crepes & Waffles (Marbella) ,Bella Vista,19,1641,13.1
+355,Coyo Taco ,San Francisco,19,273,12.4
+474,La Rana Dorada (San Francisco) ,San Francisco,19,243,12.3
+225,Miranda Bakery & Cafe ,San Francisco,19,1524,12.8
+477,Brew  Stop (Marbella) ,Marbella/Area Bancaria,19,218,12.7
+351,Ciao Ragazzi (Via Brasil) ,Obarrio,19,308,12.7
+398,Mar & Green ,Albrook/Clayton,19,320,12.7
+336,Agliorosso (Costa del Este) ,Costa del Este,19,473,12.8
+237,Dodó - Bon Pan Café ,Casco Antiguo,19,340,13.7
+453,La Rana Dorada (Centennial) ,Condado del Rey,19,190,12.9
+419,Kaifish (Sortis) ,Obarrio,19,121,13.1
+406,Nomada Eatery (Casco Antiguo) ,Casco Antiguo,19,212,12.8
+623,Jade ,San Francisco,19,88,10
+314,Fratelli Pizza & Pasta ,San Francisco,19,1302,13.1
+233,Sukhi (Area Bancaria) ,Marbella/Area Bancaria,19,553,12.6
+503,Amore Mio ,Paitilla/Punta Pacifica,19,209,11.5
+214,The Wallace ,Obarrio,20,84,13.9
+241,Tambor de Oro ,San Francisco,20,224,12.7
+213,Ciao Ragazzi (Costa del Este) ,Costa del Este,20,164,12.7
+209,Fonda Lo Que Hay ,Casco Antiguo,20,283,13
+574,365,El Carmen/El Cangrejo,20,109,12
+247,So Hot ,Condado del Rey,20,125,13.4
+259,Napoli ,Obarrio,20,2227,12.9
+232,Nacionsushi (Multiplaza) ,Paitilla/Punta Pacifica,20,585,13.3
+575,Fish Trap ,Albrook/Clayton,20,105,11.4
+624,Istmo Brew (Condado del Rey) ,Condado del Rey,20,86,11.3
+238,La Scarpetta ,Bella Vista,20,280,13.1
+276,Fragoloso Trattoria ,Bella Vista,20,459,13.2
+552,Puerto del Rey ,Condado del Rey,20,121,12.3
+427,B-dubs ,Bella Vista,20,1209,13
+262,Nacionsushi (Altaplaza Mall) ,Condado del Rey,20,1818,12.9
+413,Bistrot de Paris ,Albrook/Clayton,20,178,13
+452,Charro Mexicano (Costa del Este) ,Costa del Este,20,191,12.5
+397,Maisa (Condado del Rey) ,Condado del Rey,20,322,12.3
+390,Sanborns ,Paitilla/Punta Pacifica,20,451,12.6
+464,La Rana Dorada (El Cangrejo) ,El Carmen/El Cangrejo,20,606,12.8
+389,Orale Tacos & Tequilas (El Dorado) ,El Dorado/Bethania,20,472,12.3
+466,Bros And Beers ,El Carmen/El Cangrejo,20,396,12.2
+385,La Rana Dorada (Casco Antiguo) ,Casco Antiguo,20,653,13.4
+470,Wings Army ,Marbella/Area Bancaria,20,358,12
+352,Tomato Pub Edition (Costa del Este) ,Costa del Este,20,285,13.3
+347,Full Lucky (Condado del Rey) ,Condado del Rey,20,335,12.2
+496,Hooters (Bella Vista) ,Bella Vista,20,540,11.8
+321,Charro Mexicano (San Francisco) ,San Francisco,20,945,12.7
+446,Score Sport Bar ,Obarrio,20,273,12.4
+316,Brava Pizza & Espuma (Altaplaza Mall) ,Condado del Rey,20,1167,12.9
+317,The Corner 76 (Costa del Este) ,Costa del Este,20,1153,13
+277,Ciao Ragazzi (Clayton) ,Albrook/Clayton,20,436,12.6
+281,Brava Pizza & Espuma (Multiplaza) ,Paitilla/Punta Pacifica,20,348,13
+291,Mahalo ,Casco Antiguo,20,218,13.1
+521,Palacio Dorado ,El Dorado/Bethania,20,161,11.6
+298,La Pimienta Bistro ,El Carmen/El Cangrejo,20,164,12.7
+517,La Tapa del Frasco (Bella Vista) ,Bella Vista,20,185,12.3
+512,El Guey ,Condado del Rey,20,433,11.9
+311,Roadster's Diner (San Francisco) ,San Francisco,20,1907,13.4
+509,Capital Cerveceria (San Francisco) ,San Francisco,20,85,12.8
+313,Local ,San Francisco,20,1411,12.7
+309,Piola ,San Francisco,20,2471,12.9
+710,Lido ,Costa del Este,21,670,12.7
+832,Arrecifes (Condado del Rey) ,Condado del Rey,21,211,12
+838,Mouna Bistro ,Condado del Rey,21,86,12.9
+712,Sushi Market (Clayton) ,Albrook/Clayton,21,613,12.9
+708,Brava Pizza & Espuma (Town Center) ,Costa del Este,21,688,13.2
+851,En la Fonda ,Marbella/Area Bancaria,21,787,12.7
+701,Nacionsushi (Albrook) ,Albrook/Clayton,21,910,13.3
+846,Chili's (Santa Maria) ,Costa del Este,21,336,12.5
+696,Al Vecchio Forno ,San Francisco,21,1260,12.9
+848,Hooters (Albrook) ,Albrook/Clayton,21,282,12.1
+823,Tacos La Neta (Casco Antiguo) ,Casco Antiguo,21,482,12.4
+676,Cuquita Cookita (San Francisco) ,San Francisco,21,186,13.6
+703,Nacionsushi (San Francisco) ,San Francisco,21,859,13.1
+727,Zi Maria ,Bella Vista,21,298,13.1
+808,Orale Tacos & Tequilas (Costa del Este) ,Costa del Este,21,108,12.3
+816,Pollo Limón by Mr. Limón (Altaplaza Mall) ,Condado del Rey,21,995,12.3
+868,Istmo Brew Pub (San Francisco) ,San Francisco,21,271,11.4
+810,Fonda Paraíso ,Casco Antiguo,21,77,13.3
+747,Mika Bazar & Cafe ,Albrook/Clayton,21,765,13.2
+749,Sunly (El Dorado) ,El Dorado/Bethania,21,667,12.4
+754,El Brasero (Obarrio) ,Obarrio,21,501,12.9
+801,Orale Tacos & Tequilas (Calle 50) ,Obarrio,21,191,12.7
+800,Delicias Libanesas (Obarrio) ,Obarrio,21,212,12.7
+765,Champions ,Marbella/Area Bancaria,21,245,12.7
+797,T Bier Klooster Café Belga ,Casco Antiguo,21,322,13.1
+796,Milanesa House ,San Francisco,21,366,11.8
+777,Doscucharas (Costa del Este) ,Costa del Este,21,1031,13
+789,W Peruvian Food ,Condado del Rey,21,568,12.3
+818,Tacos La Neta (San Francisco) ,San Francisco,21,933,12.6
+878,Mandaria O Mandarin ,El Dorado/Bethania,21,102,10.1
+650,Nacionsushi (Costa del Este) ,Costa del Este,21,2481,13.3
+647,La Cocina de Sofy ,San Francisco,21,86,13.2
+632,The Fish Market (Casco Antiguo) ,Casco Antiguo,21,286,14.1
+636,Tsugoi (El Cangrejo) ,El Carmen/El Cangrejo,21,2920,13.8
+637,Tsugoi (San Francisco) ,San Francisco,21,2438,13.4
+896,Gastro Bar At 507 ,El Carmen/El Cangrejo,21,88,11.8
+646,Panama Seafood ,Costa del Este,21,95,13.4
+891,Pips Gastropub ,Casco Antiguo,21,214,12.3
+651,Lung Fung ,El Dorado/Bethania,21,2078,12.7
+655,La Jarana ,San Francisco,21,1250,11.6
+890,Picnic Food And Fun ,Costa del Este,21,87,13
+786,Doscucharas (Obarrio) ,Obarrio,21,604,12.7
+661,Solomon's Deli ,Paitilla/Punta Pacifica,21,887,13.3
+912,Donde El Toro ,El Carmen/El Cangrejo,22,286,11.5
+799,Kitchen  ,Paitilla/Punta Pacifica,22,245,12.9
+893,Bek's ,Marbella/Area Bancaria,22,138,12.6
+734,Hasaki Sushi Lounge ,Albrook/Clayton,22,109,13.4
+654,Nacionsushi (Soho Mall) ,Obarrio,22,1406,13.3
+704,Petit Paris (Marbella) ,Marbella/Area Bancaria,22,851,13
+819,T.G.I. Friday's (Albrook) ,Albrook/Clayton,22,707,12.3
+820,T.G.I. Friday's (Multiplaza) ,Paitilla/Punta Pacifica,22,688,12.2
+875,El Caribe ,El Carmen/El Cangrejo,22,279,11.4
+770,Malasaña Crib ,San Francisco,22,2438,12.9
+785,Rino's ,El Carmen/El Cangrejo,22,607,12.3
+887,Blarney Stone ,Bella Vista,22,113,12.7
+764,Aki Sushi ,Casco Antiguo,22,267,13.1
+905,The Shack ,Bella Vista,22,365,11.1
+716,Cafe Bilal ,Costa del Este,22,515,13.3
+837,Tataki (Calle 74 San Francisco) ,San Francisco,22,96,12.4
+776,Pomodoro Ristorante  ,El Carmen/El Cangrejo,22,1151,12.4
+656,Nacionsushi (Casco Antiguo) ,Casco Antiguo,22,1155,13.4
+852,Chili's (Street Mall) ,San Francisco,22,759,12.1
+865,Biergarten ,El Carmen/El Cangrejo,22,221,11.6
+864,Hooch ,San Francisco,22,185,11.7
+641,Calicanto Trattoria ,Casco Antiguo,22,857,13.2
+894,La Estancia Steak House (San Francisco) ,San Francisco,22,136,11
+630,Malasaña Crib ,San Francisco,22,2438,12.9
+686,AglioRosso (Sortis) ,Obarrio,22,2292,13.3
+767,Golden Dragon ,San Francisco,22,210,13.4
+688,AglioRosso (Balboa Boutiques) ,Marbella/Area Bancaria,22,2037,13
+781,T.G.I. Friday's (El Dorado) ,El Dorado/Bethania,22,778,12.6
+643,Pisco Moon by Milenko Scepanovic ,San Francisco,23,166,13.6
+675,PAUL (Bella Vista) ,Bella Vista,23,232,13.5
+741,Café Madero ,Obarrio,23,1508,13.3
+728,Marea ,Paitilla/Punta Pacifica,23,275,13.5
+877,Byblos ,Obarrio,23,168,12.8
+761,Pastissima (Condado del Rey) ,Condado del Rey,23,331,13.3
+759,Habibis ,Bella Vista,23,339,12.5
+644,Casa Volcan ,San Francisco,23,158,13.8
+740,Golden Unicorn ,San Francisco,23,1528,12.7
+739,Sushi Market (San Francisco Calle 66) ,San Francisco,23,1610,12.9
+752,Cocina de La India ,Bella Vista,23,630,11.8
+733,De Palo Pa Rumba ,El Carmen/El Cangrejo,23,196,13.4
+814,Juana Tranquila ,Marbella/Area Bancaria,23,1309,12.8
+881,La Spezia ,San Francisco,23,138,11.9
+695,El Republicano ,San Francisco,23,1482,13
+783,Lynchburg ,San Francisco,23,650,12.9
+788,Smoke Shack ,Costa del Este,23,575,12.4
+687,Asia Wok ,Marbella/Area Bancaria,23,2138,13.2
+689,La Locanda (Obarrio) ,Obarrio,23,2017,13.2
+792,El Huarique de Ricky ,Costa del Este,23,486,11.7
+768,Gangnam Place ,El Carmen/El Cangrejo,23,207,11.5
+873,Ozone Cafe ,Bella Vista,23,355,12.2
+775,T.G.I. Friday's (Marbella) ,Marbella/Area Bancaria,23,1222,12.5
+861,Ruby Tuesday ,Paitilla/Punta Pacifica,23,1335,11.5
+700,Tataki (Clayton) ,Albrook/Clayton,23,947,13
+794,Casa Bruja  ,Casco Antiguo,23,397,13
+843,T.G.I. Friday's (Town Center) ,Costa del Este,23,604,12.1
+842,Applebee's (Altaplaza Mall) ,Condado del Rey,23,1224,12.8
+652,Ato Sushi ,Bella Vista,23,2046,13.2
+709,Tataki (Multiplaza) ,Paitilla/Punta Pacifica,23,673,13.1
+866,Stone Sport Café By Roberto Durán ,Obarrio,23,142,11.9
+713,Nikkei Market Sushi (Punta Pacifica) ,Paitilla/Punta Pacifica,23,612,13.1
+805,Dinastia Tang ,Costa del Este,23,148,12.7
+715,Nina Café ,Obarrio,23,564,13.2
+681,Soban ,El Carmen/El Cangrejo,23,82,12.8
+803,Pedro Mandinga ,Casco Antiguo,24,161,13.4
+787,La Locanda (Costa del Este) ,Costa del Este,24,588,12.7
+758,Olive Garden ,Paitilla/Punta Pacifica,24,363,13.3
+665,Chez Titi - Salon de Té ,Costa del Este,24,614,13.8
+798,The Wine Bar ,El Carmen/El Cangrejo,24,279,12.4
+913,Umai ,Bella Vista,24,103,11.2
+795,Taberna 21 (Via Argentina) ,El Carmen/El Cangrejo,24,393,12.4
+664,Salón Cantón (San Francisco) ,San Francisco,24,686,13.2
+763,PAUL (Albrook Mall) ,Albrook/Clayton,24,276,13.1
+635,Da Stefano Trattoria ,Bella Vista,24,352,13.7
+889,Fontanella ,San Francisco,24,89,12.6
+731,Nazca 21 (Costa del Este) ,Costa del Este,24,261,13.3
+684,Tataki (Calle 61 Obarrio) ,Obarrio,24,3438,13.3
+693,PAUL (Multiplaza) ,Paitilla/Punta Pacifica,24,1513,12.9
+690,Tataki (Costa del Este) ,Costa del Este,24,1856,13.3
+845,La Taberna del Canal ,Albrook/Clayton,24,380,12.3
+699,Lucca Trattoria ,El Carmen/El Cangrejo,24,1106,13.4
+653,Beirut (Area Bancaria) ,Marbella/Area Bancaria,24,1760,13.4
+841,Tony Roma's ,Paitilla/Punta Pacifica,24,1467,11.8
+751,Ciao Bella Gourmet (Soho City Center) ,Bella Vista,24,650,13
+649,Agave Azul ,Paitilla/Punta Pacifica,24,2862,13.1
+835,Darna's Bread Co (Punta Pacifica) ,Paitilla/Punta Pacifica,24,150,12.6
+691,Guerrero Xian ,Obarrio,24,1670,13.3
+831,Applebee's (Costa del Este) ,Costa del Este,24,226,13
+723,El Mercadito Biologico ,San Francisco,24,353,13.1
+821,Leños & Carbón (Multiplaza) ,Paitilla/Punta Pacifica,24,550,12.2
+815,Jimmy's ,San Francisco,24,1133,11.8
+743,Sushi Market (Costa del Este) ,Costa del Este,24,1109,12.6
+745,Saquella Espresso (Multiplaza) ,Paitilla/Punta Pacifica,24,932,12.4
+809,Pastissima (Altaplaza) ,Condado del Rey,24,86,13.1
+680,The Raj ,El Carmen/El Cangrejo,24,85,12.9
+658,Tataki (Condado del Rey) ,Condado del Rey,24,1119,13.7
+860,Feeling (Casco Antiguo) ,Casco Antiguo,25,106,12.1
+806,Leños & Carbón (Balboa Boutiques) ,Marbella/Area Bancaria,25,139,12.8
+839,Frida Food & Lounge Amazonia ,Costa del Este,25,83,13.3
+876,Leños y Carbon (altaplaza Mall) ,Condado del Rey,25,188,12.8
+827,Bottle Alley ,Costa del Este,25,381,12.7
+895,Canal Bistro ,Albrook/Clayton,25,132,12.1
+888,Azul Pool Bar ,Paitilla/Punta Pacifica,25,91,12.5
+886,Bar Blue  ,Marbella/Area Bancaria,25,149,12.5
+742,Hard Rock Cafe ,Marbella/Area Bancaria,25,1118,13.5
+642,Gentile Gourmet ,Costa del Este,25,853,13.6
+662,Hikaru (Marbella) ,Marbella/Area Bancaria,25,783,13.2
+784,Coliseum ,Casco Antiguo,25,614,12.5
+692,Al Basha (Calle Uruguay) ,Marbella/Area Bancaria,25,1537,13.5
+744,Mar de Grau ,El Carmen/El Cangrejo,25,1010,12.3
+697,Tantalo Kitchen ,Casco Antiguo,25,1147,13.4
+683,Spuntino Trattoria ,Obarrio,25,4175,13.4
+762,Leños & Carbón (Altaplaza Mall) ,Condado del Rey,25,322,12.7
+769,Leños y Carbon Gourmet (Soho Mall) ,Obarrio,25,127,12.6
+634,Carbón y Sazón ,Marbella/Area Bancaria,25,838,13.8
+711,Botánica Pizza. ,San Francisco,25,662,13.2
+639,Asu Mare Peruvian Grill Cuisine ,San Francisco,25,1168,13.4
+780,Tavola ,Costa del Este,25,786,12.5
+698,Salón Canton (Costa del Este) ,Costa del Este,25,1142,13.2
+748,Stefano's ,Paitilla/Punta Pacifica,25,670,12.8
+663,Tío Navaja ,Casco Antiguo,26,707,13.2
+854,La Papa (Costa del Este) ,Costa del Este,26,95,11.9
+671,Saquella (Soho Mall) ,Obarrio,26,288,13.3
+828,Corte Argentino (Costa del Este) ,Costa del Este,26,331,10.9
+721,La Pampa (Marbella) ,Marbella/Area Bancaria,26,434,13.4
+717,Alandalus ,San Francisco,26,509,12.8
+648,P.F. Chang's. ,Paitilla/Punta Pacifica,26,3072,13.3
+659,Pretelt Gourmet Meats (Costa del Este) ,Costa del Este,26,980,12.7
+726,Do- Si- Rac ,San Francisco,26,311,12.4
+724,Hikaru (Sortis) ,Obarrio,26,341,13.3
+899,Ciao Restaurant ,Paitilla/Punta Pacifica,26,244,12.2
+640,Masala ,Bella Vista,26,878,14.1
+774,Casa Blanca ,Casco Antiguo,26,1265,13
+766,Jade Garden ,El Dorado/Bethania,26,244,13
+920,Red Lion (Multicentro) ,Paitilla/Punta Pacifica,26,205,10.6
+729,Saquella (Casco Antiguo) ,Casco Antiguo,26,274,12.9
+915,Barlovento  ,Casco Antiguo,26,189,11.8
+917,Finca del Mar ,Casco Antiguo,26,207,11.6
+750,Steinbock ,San Francisco,26,655,13.4
+633,Nazca 21 (Casco Antiguo) ,Casco Antiguo,26,967,13.3
+858,Frida Food & Lounge ,San Francisco,26,625,12.5
+706,Fenicia (Sortis) ,Obarrio,26,775,12.9
+804,La Taberna de Morgan ,Casco Antiguo,26,156,13.7
+705,La Papa (Bella Vista) ,Bella Vista,26,806,13.2
+884,54 East ,Obarrio,27,232,12.5
+883,Decapolis Sushi Martini Bar ,Marbella/Area Bancaria,27,233,11.8
+679,Oak ,Obarrio,27,94,13.3
+678,La Negra Tomasa ,El Carmen/El Cangrejo,27,140,13.8
+677,Kingpot ,El Dorado/Bethania,27,179,13.6
+892,Mon Cocinas del Mundo ,Paitilla/Punta Pacifica,27,189,12.4
+720,Saquella (Hilton) ,Marbella/Area Bancaria,27,437,13.1
+645,Trattoria Gabriella ,Obarrio,27,134,14
+825,Tinajas ,Bella Vista,27,398,12.9
+670,Ottoman Kebab House ,Marbella/Area Bancaria,27,295,13.4
+725,Arró Bistró ,San Francisco,27,316,13.7
+822,Amano ,San Francisco,27,487,12.7
+908,Malecon ,Casco Antiguo,27,102,12.3
+807,Corte Argentino (Condado del Rey) ,Condado del Rey,27,134,12.7
+772,Benihana ,Paitilla/Punta Pacifica,27,1737,12.3
+773,Mr. Limón Express (Altaplaza Mall) ,Condado del Rey,27,1600,12.7
+779,Paladar (Multiplaza) ,Paitilla/Punta Pacifica,27,966,12.9
+824,Leños & Carbón (El Dorado) ,El Dorado/Bethania,27,412,12.6
+667,Stefano y Tegi ,San Francisco,28,358,13.7
+657,Malo ,San Francisco,28,1127,13.8
+782,Casa Jaguar ,Casco Antiguo,28,697,12.7
+673,Kava ,Obarrio,28,262,13.7
+760,Estilo Campo ,San Francisco,28,335,12.7
+757,Meze ,Bella Vista,28,382,13.3
+753,Matsuei ,El Carmen/El Cangrejo,28,544,11.9
+735,La Central ,Casco Antiguo,28,101,13.6
+732,Tre Scalini (El Dorado) ,El Dorado/Bethania,28,239,13.1
+844,Diablicos ,Casco Antiguo,28,559,12.6
+756,Blue Moon TapHouse ,Casco Antiguo,28,386,13.5
+853,Inédito ,Marbella/Area Bancaria,28,561,12.5
+694,Il Grillo ,Costa del Este,29,1486,13.2
+685,Hacienda Real ,Bella Vista,29,2933,13.2
+669,Bruttito ,Paitilla/Punta Pacifica,29,339,13.6
+668,Tre Scalini (Costa del Este) ,Costa del Este,29,348,13.5
+746,Pastissima (Casco Antiguo) ,Casco Antiguo,29,849,13.2
+909,Molas Hotel Panamá ,Marbella/Area Bancaria,29,90,11.6
+738,Mr. Limón Express (Balboa Boutique) ,Marbella/Area Bancaria,29,3049,12.9
+817,La Septima Central ,Casco Antiguo,29,979,12.5
+916,Red Lion (Casco Viejo) ,Casco Antiguo,29,117,11.3
+882,One Restaurant ,Paitilla/Punta Pacifica,29,373,12.5
+707,Market ,Bella Vista,29,763,13.2
+714,Puntarenas ,El Carmen/El Cangrejo,29,604,13.3
+719,Tre Scalini (Area Bancaria) ,Bella Vista,29,477,13.1
+736,Fandango ,Obarrio,30,101,13.6
+660,Spice Market ,Obarrio,30,936,13.4
+672,Laduree ,Obarrio,30,263,13.6
+682,Mr. Limón (Costa del Este) ,Costa del Este,30,5542,13.2
+907,Society Café ,Marbella/Area Bancaria,30,104,12.4
+737,La Strega Ristorante ,Bella Vista,30,8246,13.1
+902,Decapolis Fusion ,Marbella/Area Bancaria,30,87,11.6
+826,Término Medio ,San Francisco,30,387,13.1
+987,The Strangers Club ,Casco Antiguo,31,230,13.8
+1014,La Fisheria ,Casco Antiguo,31,91,12.1
+998,Parrillada Martin Fierro ,El Carmen/El Cangrejo,31,318,12.7
+1003,L'osteria ,Casco Antiguo,31,868,12.5
+978,Caminito's (Costa del Este) ,Costa del Este,31,824,12.7
+1023,MoMa ,Obarrio,31,158,13
+949,Muh Panama ,San Francisco,31,2807,13
+1027,Milano ,Casco Antiguo,31,293,12.2
+1029,Costa Nova ,Costa del Este,31,95,12.5
+969,Cafe Bahia ,San Francisco,31,204,13.5
+1024,Arts ,Bella Vista,31,130,12.6
+1026,Aurum ,Paitilla/Punta Pacifica,32,268,12.7
+1005,Numen ,Casco Antiguo,32,296,13.4
+984,Abanda ,Marbella/Area Bancaria,32,454,13.4
+989,Mercao ,Costa del Este,32,1942,13.3
+981,The Dining Room At American Trade Hotel ,Casco Antiguo,32,672,13.7
+974,Assisi ,San Francisco,33,1953,13.5
+1030,Central Gastrobar ,Casco Antiguo,33,281,12.1
+1025,Brio Brasserie ,Bella Vista,33,309,12.6
+1028,Lula by Darna ,Obarrio,33,176,12.4
+967,Corvina y Caña ,Marbella/Area Bancaria,33,318,13.6
+1006,Marzola ,Casco Antiguo,33,169,13
+965,Saril ,Marbella/Area Bancaria,33,444,13.6
+1032,Panaviera Pool Bar ,Paitilla/Punta Pacifica,33,83,11.9
+925,Casa Alejandro ,Bella Vista,33,1036,13.5
+929,Miss Cho ,Obarrio,33,3275,13.9
+950,Cinco (5inco) ,San Francisco,33,1539,13.7
+948,Segundo Muelle (San Francisco) ,San Francisco,33,3911,13.5
+956,Emma's ,Marbella/Area Bancaria,34,901,13.7
+988,LOLA Mía ,Casco Antiguo,34,102,13.7
+1002,Casa Tua (San Francisco) ,San Francisco,34,1276,13
+937,Santa Rita ,Casco Antiguo,34,1123,14.1
+1013,Lazotea Rooftop ,Casco Antiguo,34,1229,12.8
+935,Segundo Muelle (Balboa Boutiques) ,Bella Vista,34,1352,14
+940,La Vespa (Area Bancaria) ,Marbella/Area Bancaria,34,817,13.9
+1015,Casa Casco (Terraza) ,Casco Antiguo,34,98,12.5
+927,Muelle 67 ,San Francisco,34,394,12.5
+964,Mostaza ,Casco Antiguo,34,454,13.3
+961,Cafe Balear (Antiguo Jaleo) ,Bella Vista,34,520,13.5
+1020,Wan Hao ,Condado del Rey,34,87,10.6
+954,Casa Stizzoli ,San Francisco,34,998,13.9
+1021,Soy Restaurant ,Paitilla/Punta Pacifica,35,454,13.1
+968,Ginza Teppanyaki ,El Carmen/El Cangrejo,35,268,13.3
+947,Lessep's Bistro ,Casco Antiguo,35,96,14.1
+946,El Madroño Restaurante & Tapas ,Bella Vista,35,221,13.5
+926,Siete Mares ,El Carmen/El Cangrejo,35,652,14.2
+938,Patagonia Grill ,San Francisco,35,1007,13.2
+985,Casa Escondida ,San Francisco,35,324,13.5
+1009,Salsipuedes ,Marbella/Area Bancaria,36,664,13
+999,Bay View ,Bella Vista,36,176,13.4
+923,Bay View ,Bella Vista,36,176,13.4
+1031,Barcelona ,Paitilla/Punta Pacifica,36,172,12
+958,La Fragata ,Obarrio,36,760,13.7
+962,Prime Steak House ,Obarrio,36,513,13.5
+973,Casa Urrutia ,Obarrio,36,3127,13.4
+994,Moró ,Bella Vista,36,373,13.7
+944,Le Bistrot ,Marbella/Area Bancaria,37,450,13.6
+963,Tanino Bistro ,San Francisco,37,477,12.9
+952,Brazzeiro ,Obarrio,37,1138,13.6
+936,Gaucho's Steak House ,Bella Vista,37,1279,13.5
+933,Los Años Locos (San Francisco) ,San Francisco,37,2136,13.9
+990,Bambú ,Costa del Este,38,999,13.4
+953,Chin Chin ,Bella Vista,38,999,13.8
+932,Os Segredos Da Carne ,Bella Vista,38,2277,13.8
+1022,Solo Restaurante ,El Carmen/El Cangrejo,38,281,13.2
+971,Niba ,Marbella/Area Bancaria,38,104,14
+939,Los Años Locos (Atrio Mall) ,Costa del Este,38,966,14.1
+1011,Bazaar Restaurant ,Paitilla/Punta Pacifica,38,365,12.8
+1004,Aria ,Obarrio,38,525,13.3
+983,Cascomar ,Casco Antiguo,38,591,13.7
+942,La Posta ,Bella Vista,38,526,13.9
+976,Grapes ,Casco Antiguo,38,1003,13.4
+979,Maguro ,Marbella/Area Bancaria,39,715,13.5
+980,Chalet Suizo ,El Carmen/El Cangrejo,39,711,13
+931,Brutto ,San Francisco,39,2606,13.9
+982,La Vespa (Hotel Trump) ,Paitilla/Punta Pacifica,39,668,13.7
+975,Tomillo ,Casco Antiguo,39,1060,13.5
+1019,Ginger ,Bella Vista,40,168,13
+1012,Atlantic & Pacific Co. ,Albrook/Clayton,40,319,13.2
+1010,Las Bóvedas ,Casco Antiguo,40,442,12.6
+1000,Mestizo ,Costa del Este,40,165,13.4
